@@ -1,2 +1,2 @@
-# mfc_SimpleCalculatorPanel
+# WINDOW PROGRAMMING_SimpleCalculatorPanel
 簡易的計算機架構以及運算
